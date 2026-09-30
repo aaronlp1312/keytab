@@ -26,7 +26,7 @@ if "%OS%"=="Windows_NT" setlocal
 
 set DIRNAME=%~dp0
 if "%DIRNAME%"=="" set DIRNAME=.
-@rem This is normally unused
+@rem This is normally unusehttps://github.com/aaronlp1312/tyadb.githubd
 set APP_BASE_NAME=%~n0
 set APP_HOME=%DIRNAME%
 
